@@ -1,0 +1,20 @@
+Exercício 3.1
+
+O editor gráfico vetorial de minha escolha foi o "Paint".
+
+1. Criação de Triângulos. /  Criação de Setas.  /  Criação de polígono qualquer (Onde a nova reta começa a partir da ultima feita).
+
+2.  a)Tamanho / Espessura
+     b)Tipo e cor de contorno 
+     c)Redimensionamento
+     d)Rotação das figuras
+     e)Seleção de figura / Movimentação de figura.
+
+3. Polígono qualquer : .A nova reta começa a partir da ultima feita.
+                         .O polígono só é considerado pronto quando você liga alguma reta de volta a 
+                         primeira.
+                         .Pode ter quantas retas/lados você quiser.
+   Triângulos : .Definição quanto dos lados (Escaleno, Isósceles ou Equilátero.).
+                          Definição quanto aos ângulos( Acutângulo, Obtusângulo, Retângulo.).
+   Setas: .Direção.
+               .Sentido.
